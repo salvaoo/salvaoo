@@ -7,7 +7,7 @@ I'm a spanish Full-Stack Developer working in UK.
 The challenge of create new functionalities, new sites, new tools, etc.. \
 I love working as _Backend_ or _Frontend_ developer so I consider myself a _**Full-Stack**_ developer.
 
-Also I'm a passionate about computer security, Big Data and IoT 💻
+Also I'm a passionate about computer security, Big Data and AI 💻
 
 
 ## 📫 How to reach me
