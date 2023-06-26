@@ -1,13 +1,13 @@
 ## Welcome to my profile 👋
 
-I'm a spanish Full-Stack Developer working in UK. 
+Spanish Full-Stack Developer working in UK. 
 
-### **I love challenges!** 💪
+### **Love challenges!** 💪
 
 The challenge of create new functionalities, new sites, new tools, etc.. \
-I love working as _Backend_ or _Frontend_ developer so I consider myself a _**Full-Stack**_ developer.
+Working as _Backend_ or _Frontend_ developer so I consider myself a _**Full-Stack**_ developer.
 
-Also I'm a passionate about computer security, Big Data and IoT 💻
+Also passionate about computer security, Big Data and IoT 💻
 
 
 ## 📫 How to reach me
